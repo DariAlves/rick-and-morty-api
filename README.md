@@ -20,10 +20,10 @@
 ## Overview
 
 ### Desktop
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/DariAlves/rick-and-morty-api/main/src/assets/desktop-screen.png)
 
 ### Mobile
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/DariAlves/rick-and-morty-api/main/src/assets/mobile-screen.png)
 
 
 ### Tecnologias utilizadas
